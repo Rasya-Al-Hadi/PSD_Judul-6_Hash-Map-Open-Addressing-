@@ -168,4 +168,4 @@ Output :
 
 Penjelasan : Menampilkan 10 Slot yang dimana No 1-4 memiliki status Terisi/Occupied dan Yang lain Kosong/Empty karena hanya ditambahkan 4 Buah Buku. User menghapus Nomor buku yang diinginkan beserta Raknya, Kemudian status berubah menjadi Dihapus/Delete. User mencari Nomor Buku lain dan Kemudian ditemukan di Rak tersebut
 
-Link Dokumentasi
+Link Dokumentasi : https://www.youtube.com/watch?v=RsYN-NRxF9M
