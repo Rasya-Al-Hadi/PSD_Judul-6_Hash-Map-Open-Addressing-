@@ -143,7 +143,7 @@ Baris 90: Menampilkan seluruh isi hash table.
 
 Baris 91: Mencari buku dengan kode 111.
 
-Baris 93: Menghapus buku dengan kode 101.
+Baris 93: Menghapus buku dengan kode 111.
 
 Baris 94: Menampilkan pesan bahwa proses penghapusan telah dilakukan.
 
